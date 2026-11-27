@@ -1,3 +1,2 @@
 this file created by feat/demo
-this is AI
-new line added by demo
+this is AI , next new line
